@@ -1,0 +1,8 @@
+ul {
+    list-style: unset;
+}
+
+li:hover {
+    list-style: unset;
+    background: #5151ff;
+}
